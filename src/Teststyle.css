@@ -1,0 +1,22 @@
+.login-input {
+    flex: 1;
+    height: 30px;
+}
+.inputbox {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.buttonbox {
+    display: block;
+    width: 60px;
+    height: 30px;
+    margin: 0 auto;
+    background-color: #007FFF;
+    border-radius: 6px;
+    color: aliceblue;
+}
+
+.required {
+    color: red;
+}
